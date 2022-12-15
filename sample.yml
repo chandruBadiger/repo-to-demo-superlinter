@@ -1,0 +1,8 @@
+name: hadolint
+version: "2.12.1"
+synopsis: Dockerfile Linter JavaScript API
+description:
+  This is just for testing
+  A smarter Dockerfile linter that helps you build best practice Docker img
+category: Development
+author: Lukas Martinelli
