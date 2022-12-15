@@ -1,3 +1,4 @@
+---
 name: hadolint
 version: "2.12.1"
 synopsis: Dockerfile Linter JavaScript API
